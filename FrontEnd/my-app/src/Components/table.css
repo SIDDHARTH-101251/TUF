@@ -1,0 +1,12 @@
+.table-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.table-style {
+    border-style: solid;
+    border-width: 1px;
+}
